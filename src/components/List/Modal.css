@@ -1,6 +1,11 @@
 body.active-modal {
     overflow-y: hidden;
 }
+*{
+    box-sizing:Border-box;
+    padding:0;
+    margin:0;
+}
 
 .btn-modal {
     padding: 10px 20px;
